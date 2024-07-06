@@ -6,3 +6,4 @@ endtime=$(date +%S)
 echo "$endtime"
 diff=$((endtime-starttime))
 echo "$diff"
+echo "commit3"
