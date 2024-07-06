@@ -1,0 +1,8 @@
+#!/bin/bash
+starttime=$(date +%S)
+echo "$starttime"
+sleep 5
+endtime=$(date +%S)
+echo "$endtime"
+diff=$((endtime-starttime))
+echo "$diff"
