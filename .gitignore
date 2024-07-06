@@ -1,0 +1,2 @@
+# ignore changes on "test-ignore" directory
+test-ignore/*

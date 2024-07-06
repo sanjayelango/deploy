@@ -8,3 +8,4 @@ diff=$((endtime-starttime))
 echo "$diff"
 echo "commit3"
 echo "commit4"
+echo "commit5"
